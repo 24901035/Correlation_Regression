@@ -1,6 +1,7 @@
 # 3. Correlation and regression for data analysis
-## Name : priyanka.R
-## Reg : 212223220081
+Developed by : MOHAN R
+
+REG No : 212224230168
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
